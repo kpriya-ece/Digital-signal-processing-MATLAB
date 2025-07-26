@@ -5,10 +5,10 @@ MATLAB scripts for Digital Signal Processing tasks such as discrete signal gener
 
 This repository contains MATLAB scripts for basic Digital Signal Processing (DSP) concepts, including:
 
--Discrete signal generation
-- DFT vs FFT comparison
-- Convolution and correlation
-- FIR and IIR filter design 
+ -Discrete signal generation
+ -DFT vs FFT comparison
+ -Convolution and correlation
+ -FIR and IIR filter design 
 
 ## How to Use
 
@@ -19,8 +19,8 @@ This repository contains MATLAB scripts for basic Digital Signal Processing (DSP
 
 ## Requirements
 
-- MATLAB (R2020b or latest)
-- Signal Processing Toolbox (for some scripts)
+ -MATLAB (R2020b or latest)
+ -Signal Processing Toolbox (for some scripts)
 
 ## Author
 
