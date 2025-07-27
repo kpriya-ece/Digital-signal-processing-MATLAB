@@ -84,4 +84,4 @@ y_eq_fft2 = abs(ifft(y_eq1, fft_ord));
 subplot(3, 4, 12), plot(fr, y_eq_fft2(1:fft_ord/2), 'k'); title('Equalizer Output');
 
 % Save figure as PNG
-saveas(gcf, 'equalizer_output_black.png');
+saveas(gcf, 'equalizer_output.png');
